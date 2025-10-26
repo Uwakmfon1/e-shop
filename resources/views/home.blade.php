@@ -1,5 +1,4 @@
 <html>
-
 <head>
 <title>Shop – E-Commerce Store</title>
 <script src="https://cdn.tailwindcss.com"></script>
@@ -74,5 +73,4 @@
   </footer>
     @livewireScripts
 </body>
-
 </html>
